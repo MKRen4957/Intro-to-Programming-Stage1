@@ -22,6 +22,9 @@ if you need a refresher about how to do this. */
   color: white;
   height: 100px;
 }
+/*
+Premier league box
+*/
 .epl {
   display: -webkit-flex;
   display: flex;
@@ -176,12 +179,17 @@ if you need a refresher about how to do this. */
   background: #D7DBDD;
   width: 400px;
 }
+/*
+more results to add here
+*/
 .eplLogo {
   vertical-align: middle;
   margin-top: 18px;
   margin-left: 5px;
 }
-
+/*
+Champions league
+*/
 .cl {
   display: -webkit-flex;
   display: flex;
@@ -228,7 +236,43 @@ if you need a refresher about how to do this. */
   background: #5DADE2;
   width: 400px;
 }
+/*
+more results to add here
+*/
 .clLogo {
+  vertical-align: middle;
+  margin-top: 18px;
+  margin-left: 5px;
+}
+/*
+FA Cup
+*/
+.facup {
+  display: -webkit-flex;
+  display: flex;
+}
+.pneA {
+  display: -webkit-flex;
+  display: flex;
+  background: #D7BDE2;
+  width: 400px;
+}
+.souAFA {
+  display: -webkit-flex;
+  display: flex;
+  background: #AF7AC5;
+  width: 400px;
+}
+.sutA {
+  display: -webkit-flex;
+  display: flex;
+  background: #D7BDE2;
+  width: 400px;
+}
+/*
+Add more results here
+*/
+.faLogo {
   vertical-align: middle;
   margin-top: 18px;
   margin-left: 5px;
