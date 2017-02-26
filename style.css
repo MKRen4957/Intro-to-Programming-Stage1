@@ -172,3 +172,45 @@ if you need a refresher about how to do this. */
   background: #D7DBDD;
   width: 400px;
 }
+.psgA {
+  display: -webkit-flex;
+  display: flex;
+  background: #5DADE2;
+  width: 400px;
+}
+.fcbH {
+  display: -webkit-flex;
+  display: flex;
+  background: #D6EAF8;
+  width: 400px;
+}
+.ludH {
+  display: -webkit-flex;
+  display: flex;
+  background: #5DADE2;
+  width: 400px;
+}
+.ludA {
+  display: -webkit-flex;
+  display: flex;
+  background: #D6EAF8;
+  width: 400px;
+}
+.psgH {
+  display: -webkit-flex;
+  display: flex;
+  background: #5DADE2;
+  width: 400px;
+}
+.fcbA {
+  display: -webkit-flex;
+  display: flex;
+  background: #D6EAF8;
+  width: 400px;
+}
+.bayA {
+  display: -webkit-flex;
+  display: flex;
+  background: #5DADE2;
+  width: 400px;
+}
