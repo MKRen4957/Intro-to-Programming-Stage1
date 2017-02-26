@@ -22,6 +22,10 @@ if you need a refresher about how to do this. */
   color: white;
   height: 100px;
 }
+.epl {
+  display: -webkit-flex;
+  display: flex;
+}
 .livH {
   display: -webkit-flex;
   display: flex;
@@ -172,6 +176,16 @@ if you need a refresher about how to do this. */
   background: #D7DBDD;
   width: 400px;
 }
+.eplLogo {
+  vertical-align: middle;
+  margin-top: 18px;
+  margin-left: 5px;
+}
+
+.cl {
+  display: -webkit-flex;
+  display: flex;
+}
 .psgA {
   display: -webkit-flex;
   display: flex;
@@ -213,4 +227,9 @@ if you need a refresher about how to do this. */
   display: flex;
   background: #5DADE2;
   width: 400px;
+}
+.clLogo {
+  vertical-align: middle;
+  margin-top: 18px;
+  margin-left: 5px;
 }
