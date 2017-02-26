@@ -1,0 +1,174 @@
+/* This is a CSS comment. Notice that CSS comments are
+enclosed by different characters than HTML comments. */
+
+/* CSS allows you to give your page style (colors, shapes, fonts, etc.)
+You can apply CSS elements to entire HTML classes. Review Lesson 1.3
+if you need a refresher about how to do this. */
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.header {
+  display: -webkit-flex;
+  display: flex;
+  margin-bottom: 5px;
+}
+.title {
+  background-color: rgb(197,0,0);
+  color: white;
+  height: 100px;
+}
+.livH {
+  display: -webkit-flex;
+  display: flex;
+  background: #D7DBDD;
+  width: 400px;
+}
+.leiA {
+  display: -webkit-flex;
+  display: flex;
+  background: #AAB7B8;
+  width: 400px;
+}
+.watA {
+  display: -webkit-flex;
+  display: flex;
+  background: #D7DBDD;
+  width: 400px;
+}
+.souH {
+  display: -webkit-flex;
+  display: flex;
+  background: #AAB7B8;
+  width: 400px;
+}
+.hulA {
+  display: -webkit-flex;
+  display: flex;
+  background: #D7DBDD;
+  width: 400px;
+}
+.cheH {
+  display: -webkit-flex;
+  display: flex;
+  background: #AAB7B8;
+  width: 400px;
+}
+.burA {
+  display: -webkit-flex;
+  display: flex;
+  background: #D7DBDD;
+  width: 400px;
+}
+.swaH {
+  display: -webkit-flex;
+  display: flex;
+  background: #AAB7B8;
+  width: 400px;
+}
+.midH {
+  display: -webkit-flex;
+  display: flex;
+  background: #D7DBDD;
+  width: 400px;
+}
+.sunA {
+  display: -webkit-flex;
+  display: flex;
+  background: #AAB7B8;
+  width: 400px;
+}
+.totH {
+  display: -webkit-flex;
+  display: flex;
+  background: #D7DBDD;
+  width: 400px;
+}
+.manUA {
+  display: -webkit-flex;
+  display: flex;
+  background: #AAB7B8;
+  width: 400px;
+}
+.bouH {
+  display: -webkit-flex;
+  display: flex;
+  background: #D7DBDD;
+  width: 400px;
+}
+.whuA {
+  display: -webkit-flex;
+  display: flex;
+  background: #AAB7B8;
+  width: 400px;
+}
+.stoH {
+  display: -webkit-flex;
+  display: flex;
+  background: #D7DBDD;
+  width: 400px;
+}
+.eveA {
+  display: -webkit-flex;
+  display: flex;
+  background: #AAB7B8;
+  width: 400px;
+}
+.manCA {
+  display: -webkit-flex;
+  display: flex;
+  background: #D7DBDD;
+  width: 400px;
+}
+.wbaH {
+  display: -webkit-flex;
+  display: flex;
+  background: #AAB7B8;
+  width: 400px;
+}
+.cryH {
+  display: -webkit-flex;
+  display: flex;
+  background: #D7DBDD;
+  width: 400px;
+}
+.bouA {
+  display: -webkit-flex;
+  display: flex;
+  background: #AAB7B8;
+  width: 400px;
+}
+.swaA {
+  display: -webkit-flex;
+  display: flex;
+  background: #D7DBDD;
+  width: 400px;
+}
+.burH {
+  display: -webkit-flex;
+  display: flex;
+  background: #AAB7B8;
+  width: 400px;
+}
+.watH {
+  display: -webkit-flex;
+  display: flex;
+  background: #D7DBDD;
+  width: 400px;
+}
+.cheA {
+  display: -webkit-flex;
+  display: flex;
+  background: #AAB7B8;
+  width: 400px;
+}
+.hulH {
+  display: -webkit-flex;
+  display: flex;
+  background: #D7DBDD;
+  width: 400px;
+}
