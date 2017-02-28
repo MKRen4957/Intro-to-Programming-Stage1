@@ -24,6 +24,18 @@ if you need a refresher about how to do this. */
   margin: 18px 0px 0px 5px;
 }
 
+.header2 {
+  color: white;
+  font-weight: bold;
+  margin: 0px 0px 0px 0px;
+}
+.header3 {
+  background-color: #D4AC0D;
+  color: white;
+  width: 400px;
+  margin: 0px 0px 0px 0px;
+}
+
 .date {
   width: 80px;
 }
